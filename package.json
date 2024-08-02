@@ -4,7 +4,7 @@
     "Mark Cavage <mcavage@gmail.com>",
     "Cody Peter Mello <cody.mello@joyent.com>"
   ],
-  "name": "@ldapjs/attribute",
+  "name": "@wekanteam/attribute",
   "homepage": "https://github.com/wekan/attribute",
   "description": "API for handling LDAP entry attributes",
   "version": "1.0.1",
